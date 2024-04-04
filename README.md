@@ -1,2 +1,2 @@
 # HVFA-Net
-Our project will be organized and published after receiving it
+Our project will be organized and made public after the paper is received.
